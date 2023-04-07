@@ -1,1 +1,0 @@
-Extract .zip files then Double click on .jnlp/.html file to perform experiment.
